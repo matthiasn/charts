@@ -50,7 +50,7 @@ class LayoutViewPaintOrder {
   // axes are drawn on top of measure axes to ensure that the domain axis line
   // appears on top of any measure axis grid lines.
   static const measureAxis = 0;
-  static const domainAxis = 5;
+  static const domainAxis = 15;
   // Draw series data on top of axis elements.
   static const arc = 10;
   static const bar = 10;
